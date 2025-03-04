@@ -46,7 +46,7 @@ MovieHive/
 
    ```sh
    git clone https://github.com/gamson3/MovieHive.git
-   cd movie-hive
+   cd MovieHive
    ```
 
 2. **Install dependencies**
